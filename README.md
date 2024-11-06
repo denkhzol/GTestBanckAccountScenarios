@@ -1,4 +1,4 @@
-# GTestScenarios
+# GTestBankAccountScenarios
 
 This repository was created as part of my journey to learn Google Test (GTest). It includes multiple test files that demonstrate various testing techniques and scenarios. These include managing BankAccount instances using traditional raw pointers, utilizing modern C++ smart pointers (std::unique_ptr and std::shared_ptr) for automatic memory management, and running parameterized tests to ensure comprehensive coverage with different sets of input parameters.
 
