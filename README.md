@@ -24,8 +24,8 @@ This repository was created as part of my journey to learn Google Test (GTest). 
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:denkhzol/GTestScenarios.git
-    cd BankAccountGTestScenarios
+    git clone git@github.com:denkhzol/GTestBankAccountScenarios.git
+    cd GTestBankAccountScenarios
     ```
 
 2. Create a build directory and navigate into it:
